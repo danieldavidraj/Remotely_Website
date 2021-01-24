@@ -1,4 +1,4 @@
-# Remotely_Website
+# Remotely Website
 Link to view the website:
 [Remotely](http://remotely.co.in/)
 ## Project details:
