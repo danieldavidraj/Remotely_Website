@@ -21,6 +21,7 @@ Link to view the website:
 ## Back - End:
 * PHP
 * AJAX
+* PDO
 * MySQL
 ## Tools :
 * MailJet API for Email
@@ -28,3 +29,4 @@ Link to view the website:
 * Google Analytics
 * Google Tag Manager
 * AWS EC2 and Secure Connection (SSL/TTL)
+* SEO Optimization
