@@ -1,6 +1,6 @@
-# Remotely Website
+# Remotely
 Link to view the website:
-[Remotely](http://remotely.co.in/)
+[Remotely](https://remotely.co.in/)
 ## Project details:
 * Developer: Daniel Davidraj M
-* Project done for internship with VR AR MR
+* A website developed for an app "Remotely" developed by VRARMR
