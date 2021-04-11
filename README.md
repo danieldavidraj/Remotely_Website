@@ -10,4 +10,4 @@ Link to view the website:
 ## Project details:
 
 * Developer: Daniel Davidraj M
-* A website developed for an app "Remotely" developed by VRARMR
+* A website developed for a VR/AR based app "Remotely" developed by VRARMR
