@@ -1,6 +1,7 @@
 <div align="center">
-<img src="images/icon.png" height="50px" width="50px">
+<img src="images/icon.png" height="100px" width="100px">
 </div>
+
 # Remotely
 Link to view the website:
 [Remotely](https://remotely.co.in/)
