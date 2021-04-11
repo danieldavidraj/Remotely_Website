@@ -11,3 +11,20 @@ Link to view the website:
 
 * Developer: Daniel Davidraj M
 * A website developed for a VR/AR based app "Remotely" developed by VRARMR
+
+## Front - End:
+* Html
+* Css
+* JavaScript
+* JQuery
+* Bootstrap
+## Back - End:
+* PHP
+* AJAX
+* MySQL
+## Tools :
+* MailJet API for Email
+* Google Recaptcha V2
+* Google Analytics
+* Google Tag Manager
+* AWS EC2 and Secure Connection (SSL/TTL)
