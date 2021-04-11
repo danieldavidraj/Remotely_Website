@@ -28,5 +28,5 @@ Link to view the website:
 * Google Recaptcha V2
 * Google Analytics
 * Google Tag Manager
-* AWS EC2 and Secure Connection (SSL/TTL)
+* AWS EC2 and Secure Connection (SSL/TLS)
 * SEO Optimization
