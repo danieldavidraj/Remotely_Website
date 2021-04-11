@@ -1,3 +1,4 @@
+<img src="images/icon.png">
 # Remotely
 Link to view the website:
 [Remotely](https://remotely.co.in/)
